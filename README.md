@@ -25,6 +25,12 @@ Este repositório contém a interface responsiva de um e-commerce de móveis cha
 
 ---
 
+## 🎨 Referência de Design
+
+O layout e a identidade visual deste e-commerce foram inspirados e estruturados com base no protótipo [Furniro - E-commerce UI Kit no Figma](https://www.figma.com/files/team/1620948736756447228/resources/community/file/1331381641303792117?q_id=bf129e45-8aec-4325-b447-fc10325460c8&fuid=1620948733266063085), buscando reproduzir com fidelidade a estética minimalista, a paleta de cores e a disposição de elementos típicas de lojas de móveis modernos.
+
+---
+
 ## 🛠️ Tecnologias e Recursos Utilizados
 
 * **HTML5 / CSS3:** Estruturação semântica da página e estilização customizada.
@@ -37,3 +43,9 @@ Este repositório contém a interface responsiva de um e-commerce de móveis cha
 ## 💡 Apoio de Inteligência Artificial
 
 Para o desenvolvimento deste projeto, a Inteligência Artificial **Gemini (Google)** foi utilizada como ferramenta de suporte técnico, auxiliando na aplicação de boas práticas de desenvolvimento front-end, na escolha e estruturação das classes utilitárias do Bootstrap 5 e na resolução de ajustes de layout responsivo.
+
+---
+
+## ✒️ Autor
+
+* **Nome:** Arthur Carvalho Gomes da Costa
