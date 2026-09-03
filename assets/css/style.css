@@ -1,0 +1,45 @@
+:root {
+  --primary-color: #2D3E35;    /* Verde Floresta Escuro (Header, Botões Primários) */
+  --accent-color: #B88E2F;     /* Dourado/Madeira (Destaques e Preço - idêntico ao Furniro) */
+  --bg-light: #F9F1E7;         /* Off-White / Bege Quente (Fundos de Seção, Cards) */
+  --text-dark: #333333;        /* Cinza Escuro (Textos Principais) */
+  --text-muted: #666666;       /* Cinza Médio (Subtítulos, Especificações) */
+
+}
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.text {
+  color: var(--text-dark);
+}
+
+.faded-text {
+  color: var(--text-muted);
+}
+
+.navbar-brand > img {
+  height: 23px;
+  margin-right: 8px;
+  object-fit: contain;
+}
+
+.nav-link:hover {
+  color: var(--accent-color);
+}
+
+.btn-lume-primary {
+  background-color: var(--primary-color);
+  color: #ffffff;
+  border: 1px solid var(--primary-color);
+  border-radius: 4px; 
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-lume-primary:hover {
+  background-color: var(--accent-color); 
+  border-color: var(--accent-color);
+  transform: translateY(-2px); 
+}
+
