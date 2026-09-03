@@ -25,9 +25,10 @@ Este repositório contém a interface responsiva de um e-commerce de móveis cha
 
 ---
 
-## 🎨 Referência de Design
+## 🎨 Referência de Design e Mídia
 
-O layout e a identidade visual deste e-commerce foram inspirados e estruturados com base no protótipo [Furniro - E-commerce UI Kit no Figma](https://www.figma.com/files/team/1620948736756447228/resources/community/file/1331381641303792117?q_id=bf129e45-8aec-4325-b447-fc10325460c8&fuid=1620948733266063085), buscando reproduzir com fidelidade a estética minimalista, a paleta de cores e a disposição de elementos típicas de lojas de móveis modernos.
+* **Layout:** O projeto foi desenvolvido tendo como estudo de caso e inspiração o protótipo [Furniro - E-commerce UI Kit no Figma](https://www.figma.com/files/team/1620948736756447228/resources/community/file/1331381641303792117?q_id=bf129e45-8aec-4325-b447-fc10325460c8&fuid=1620948733266063085). O design original serviu como base estrutural, com adaptações e personalizações próprias para simplificar a navegação e ajustar a composição visual da marca Lume além de atender os requisitos da entrega.
+* **Imagens:** As fotografias dos 4 produtos que se repetem no projeto foram selecionadas da plataforma **Unsplash**, garantindo alta qualidade visual e licença livre para uso.
 
 ---
 
@@ -42,7 +43,7 @@ O layout e a identidade visual deste e-commerce foram inspirados e estruturados 
 
 ## 💡 Apoio de Inteligência Artificial
 
-Para o desenvolvimento deste projeto, a Inteligência Artificial **Gemini (Google)** foi utilizada como ferramenta de suporte técnico, auxiliando na aplicação de boas práticas de desenvolvimento front-end, na escolha e estruturação das classes utilitárias do Bootstrap 5 e na resolução de ajustes de layout responsivo.
+Para o desenvolvimento deste projeto, a Inteligência Artificial **Gemini (Google)** foi utilizada no **aprendizado de conceitos** e **brainstorming de ideias**, auxiliando também no conhecimento de **boas práticas de desenvolvimento** front-end, nas **classes utilitárias do Bootstrap 5** e na ajuda da **resolução de ajustes de layout responsivo**.
 
 ---
 
