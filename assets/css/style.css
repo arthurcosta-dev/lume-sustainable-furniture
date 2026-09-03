@@ -201,3 +201,15 @@
   min-height: 220px;
 }
 
+.thumb-box {
+  width: 100%;
+  aspect-ratio: 1 / 1; 
+  background-color: var(--bg-light);
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.thumb-box:hover,
+.thumb-box.active {
+  border-color: var(--accent-color) !important;
+  transform: scale(1.03);
+}
