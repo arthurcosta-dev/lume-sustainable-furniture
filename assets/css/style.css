@@ -193,3 +193,9 @@
   box-shadow: 0 8px 20px rgba(0,0,0,0.08);
 }
 
+.shop-banner {
+  background-image: url('../images/hero-banner-products.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 220px;
+}
