@@ -52,6 +52,7 @@
 .btn-lume-primary:hover {
   background-color: var(--accent-color); 
   border-color: var(--accent-color);
+  color: white;
   transform: translateY(-2px); 
 }
 
@@ -199,3 +200,4 @@
   background-position: center;
   min-height: 220px;
 }
+
